@@ -1,0 +1,12 @@
+.loginPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.MainLogin {
+  width: 30vw;
+  background-color: rgba(165, 42, 42, 0.6);
+  padding: 2rem;
+  border-radius: 1rem;
+}
